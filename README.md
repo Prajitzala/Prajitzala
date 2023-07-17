@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajit Zala</h1>
-<h3 align="center">A Frontend developer from India</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
