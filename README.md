@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Prajit%20Zala&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Vibe%20Coder%20%7C%20Building%20with%20LLMs&descAlignY=58&descSize=18" />
 
