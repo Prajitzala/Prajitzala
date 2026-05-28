@@ -1,13 +1,120 @@
-<h1 align="center">Hi 👋, I'm Prajit Zala</h1>
-<h3 align="center">A Software Engineer</h3>
+<!-- Header -->
+<div align="center">
 
-- 🌱 I’m currently learning **MERN Stack**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Prajit%20Zala&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Vibe%20Coder%20%7C%20Building%20with%20LLMs&descAlignY=58&descSize=18" />
 
-- 📫 How to reach me **zalaprajit8@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- Typing animation -->
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=RAG+Pipelines+%F0%9F%A4%96;LangChain+%2B+OpenAI+%2B+Supabase+pgvector;Streaming+LLMs+%E2%9A%A1;Vibe+Coding+with+Cursor+%2B+Claude+Code+%F0%9F%8E%B5;Full-Stack+AI+Engineer)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- About -->
+## 🧠 About Me
+
+```python
+prajit = {
+    "role"        : "AI Engineer + Vibe Coder 🎵 + Software Engineer",
+    "education"   : "BTech/MS in Computer Engineering",
+    "building"    : "LLM-powered apps, RAG pipelines, vector search",
+    "stack"       : ["LangChain.js", "OpenAI GPT-4o", "Supabase pgvector", "Next.js"],
+    "vibe_setup"  : ["Cursor", "Claude Code", "lofi beats", "dark mode always"],
+    "ask_me_about": ["RAG", "Vector DBs", "Streaming LLMs", "Full-Stack AI"],
+    "contact"     : "prajitzala.career@gmail.com",
+}
+```
+
+> 🎵 *I don't just write code — I vibe it into existence with Cursor + Claude Code.*
+
+---
+
+<!-- AI Stack -->
+## 🤖 AI / ML Stack
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**RAG Pipelines · Vector Search · Prompt Engineering · Streaming LLMs · Embeddings**
+
+</div>
+
+---
+
+<!-- Vibe Coding Setup -->
+## 🎵 Vibe Coding Setup
+
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+*Prompt → Ship → Repeat* ⚡
+
+</div>
+
+---
+
+<!-- Full Tech Stack -->
+## 🛠️ Full Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<!-- Connect -->
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajitzala)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajitzala.career@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajitzala)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
+
+</div>
